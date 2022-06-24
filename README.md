@@ -30,7 +30,7 @@ descargas estos archivos
 ## Autores ✒️
   
   - **rcomunica** - _Dios del servidor y documentacion_ - [rcomunica](https://github.com/rcomunica)
-  - **SrPaisita** - _Dios del servidor_ - [SrPaisita](https://github.com/SrPaisita)
+  - **SrPaisita** - _Dios del servidor y senador_ - [SrPaisita](https://github.com/SrPaisita)
   
   
 
