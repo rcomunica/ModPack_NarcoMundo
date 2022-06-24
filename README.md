@@ -9,6 +9,23 @@ descargas estos archivos
  - a ver solicitado el ingreso previamente
  - Seguir a Nicolasrincon_6
  - Tener el ModPack que esta en este repositorio
+
+## Donde descargar
+
+ Dandole click a este [enlace](https://github.com/rcomunica/ModPack_NarcoMundo/archive/refs/heads/main.zip) automaticamente podras descargar el archivo
+ 
+## Como descargar
+
+ - Descomprime el archivo .rar 
+ - Dirigente a **%AppData%** dandole WIN + R 
+ - En la carpeta .minecraft busca la carpeta mods si no la encuntras creala
+ - Ahi ingresa los mods descargados previamente
+ - _FIN_
+
+## Recuerda
+ 
+ Los MODS y el servidor son unicamente para la version _1.12.2_ y ninguna mas
+ 
  
 ## Autores ✒️
   
@@ -16,8 +33,4 @@ descargas estos archivos
   - **SrPaisita** - _Dios del servidor_ - [SrPaisita](https://github.com/SrPaisita)
   
   
-  ## Como descargar
-  
-  ![image](https://user-images.githubusercontent.com/90717365/175448101-26949348-61ab-43c8-baff-13f9d72e26ef.png)
 
-  
