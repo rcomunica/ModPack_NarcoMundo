@@ -14,7 +14,7 @@ descargas estos archivos
 
  Dandole click a este [enlace](https://github.com/rcomunica/ModPack_NarcoMundo/archive/refs/heads/main.zip) automaticamente podras descargar el archivo
  
-## Como descargar
+## Como instalar
 
  - Descomprime el archivo .rar 
  - Dirigente a **%AppData%** dandole WIN + R 
