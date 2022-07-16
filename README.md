@@ -24,7 +24,7 @@ descargas estos archivos
 
 ## Recuerda
  
- Los MODS y el servidor son unicamente para la version _1.12.2_ y ninguna mas
+ Los MODS y el servidor son unicamente para la version _1.16.5_ y ninguna mas
  
  
 ## Autores ✒️
