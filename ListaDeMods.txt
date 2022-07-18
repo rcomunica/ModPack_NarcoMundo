@@ -8,7 +8,6 @@
 - Hywla
 - Entity Culling Fabric/Forge
 - Macaw's Doors
-- Astral Sorcery
 - Corail Tombstone
 - Yung's Better Caves
 - Fps reduce
