@@ -1,7 +1,7 @@
 # ModPack NarcoMundo
 
 
-## AUN ESTE REPOSITORIO ESTA EN MODO BETA
+## LEER TODO ESTE ARCHIVO! OBLIGATORIAMENTE
 
 Este repositorio se creo para que descarges los archivos necesarios para entrar al servido de NarcoMundo (narcomundo.mysrv.us) mas abajo encontras como 
 descargas estos archivos
