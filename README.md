@@ -26,7 +26,10 @@ descargas estos archivos
 
 ## Recuerda
  
- Los MODS y el servidor son unicamente para la version _1.16.5_ y ninguna mas
+ - Los MODS y el servidor son unicamente para la version _1.16.5_ y ninguna mas
+ - NarcoMod es un mod inestable y se encuentra en constantes actualizaciones se sugiere estar viendo a menudo este repositorio
+ - En caso tal de que no te deje entrar al servidor contacta a nuestros dioses por discord _rcomunica#3285_ y/o _juanj#0532_
+ 
  
  
 ## Autores ✒️
