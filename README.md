@@ -36,6 +36,6 @@ descargas estos archivos
   
   - **rcomunica** - _Dios del servidor y documentacion_ - [rcomunica](https://github.com/rcomunica)
   - **SrPaisita** - _Dios del servidor_ - [SrPaisita](https://github.com/SrPaisita)
-  - **IsWapy**  _Dios del servidor y documentacion_ - [IsWapy](https://github.com/IsWapy)
+  - **IsWapy**  _Dios del servidor y documentacion_ - [IsWapy](https://github.com/janveez)
   
 
