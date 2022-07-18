@@ -14,7 +14,7 @@ descargas estos archivos
 
 ## Donde descargar
 
- Dandole click a este [enlace](https://github.com/rcomunica/ModPack_NarcoMundo/archive/refs/heads/main.zip) automaticamente podras descargar el archivo
+ Dandole click a este [enlace](https://github.com/rcomunica/ModPack_NarcoMundo/releases/tag/NarcoPack) automaticamente podras descargar el archivo
  
 ## Como instalar
 
