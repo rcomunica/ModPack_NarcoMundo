@@ -2,7 +2,6 @@
 - Decocraft
 - Vehicle mod MrCrayfish's
 - Gun mod MrCrayfish's
-- Earth2Java
 - Caves & Cliff backport
 - Spark
 - Hywla
@@ -23,11 +22,15 @@
 - Chisel Mod
 - Aquaculture 2
 - CMDCam
-
-
--- Falta de la lista --
-
-
 - Custom NPCs
 - Super Multi-Drills
-- 
+
+(Todos no son mencionados)
+
+Numero de mods totales: 33
+
+# NOTA:
+
+Recuerda que algunos mods requieren de otros mods lo que incrementa el peso .RAR y aumento de numeros de archivos 
+
+
