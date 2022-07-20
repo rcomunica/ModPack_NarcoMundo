@@ -24,10 +24,10 @@
 - CMDCam
 - Custom NPCs
 - Super Multi-Drills
-
+- Crafish furniture
 (Todos no son mencionados)
 
-Numero de mods totales: 33
+Numero de mods totales: 34
 
 # NOTA:
 
